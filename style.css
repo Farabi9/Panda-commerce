@@ -1,0 +1,17 @@
+.panda-image img{
+    width: 100px;
+    
+    
+
+}
+.panda-image{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.panda-btn{
+    background-color: #ff3987;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
